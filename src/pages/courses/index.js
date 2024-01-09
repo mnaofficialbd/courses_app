@@ -1,4 +1,3 @@
-// courses/index.js
 import Link from "next/link";
 import coursesData from "../../data/courses.json";
 
