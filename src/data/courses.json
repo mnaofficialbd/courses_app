@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Introduction to Programming",
+    "slug": "intro-to-programming",
+    "description": "Learn the basics of programming with this introductory course.",
+    "price": 49.99
+  },
+  {
+    "title": "Web Development Fundamentals",
+    "slug": "web-dev-fundamentals",
+    "description": "Build a strong foundation in web development concepts and skills.",
+    "price": 79.99
+  },
+  {
+    "title": "React.js Mastery",
+    "slug": "react-js-mastery",
+    "description": "Become a React.js expert with this comprehensive mastery course.",
+    "price": 99.99
+  }
+]
